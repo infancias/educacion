@@ -8,6 +8,7 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+div class "section-title" {background-image: url: ("assets/img/portada.jpg"); }
 body {
   font-family: "Open Sans", sans-serif;
   color: #444444;
