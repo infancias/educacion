@@ -8,7 +8,10 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
-section { background-image: img= src "https://github.com/infancias/educacion/blob/main/assets/img/portada.jpg?raw=true" ; }
+section id="hero" { div class="container position-relative"  background-image: img= src "https://github.com/infancias/educacion/blob/main/assets/img/portada.jpg?raw=true" ; }
+  
+
+
 
 section {id="hero" class="d-flex justify-content-center align-items-center", img= src "https://github.com/infancias/educacion/blob/main/assets/img/portada.jpg?raw=true",
     div class="container position-relative aos-init aos-animate" data-aos="zoom-in" data-aos-delay="100";}
