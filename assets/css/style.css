@@ -10,7 +10,7 @@
 --------------------------------------------------------------*/
  div class="container position-relative"  {background-image: img= src "https://github.com/infancias/educacion/blob/main/assets/img/portada.jpg?raw=true" ; }
   
-
+ section id="hero" { img= src "https://github.com/infancias/educacion/blob/main/assets/img/portada.jpg ";}
 section {background-image:  url("infancias/educacion/blob/main/assets/img/portada.jpg");}
 
 section {id="hero" class="d-flex justify-content-center align-items-center", 
