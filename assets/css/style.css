@@ -8,7 +8,7 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
-section id="hero" { div class="container position-relative"  background-image: img= src "https://github.com/infancias/educacion/blob/main/assets/img/portada.jpg?raw=true" ; }
+ div class="container position-relative"  {background-image: img= src "https://github.com/infancias/educacion/blob/main/assets/img/portada.jpg?raw=true" ; }
   
 
 section {background-image:  url("infancias/educacion/blob/main/assets/img/portada.jpg");}
