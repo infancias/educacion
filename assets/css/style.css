@@ -8,13 +8,6 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
- div class="container position-relative"  {background-image: img= src "https://github.com/infancias/educacion/blob/main/assets/img/portada.jpg?raw=true" ; }
-  
- section id="hero" { img= src "https://github.com/infancias/educacion/blob/main/assets/img/portada.jpg ";}
-section {background-image:  url("infancias/educacion/blob/main/assets/img/portada.jpg");}
-
-section {id="hero" class="d-flex justify-content-center align-items-center", 
-    div class="container position-relative aos-init aos-animate" data-aos="zoom-in" data-aos-delay="100";}
      
 
 body {
@@ -406,7 +399,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 80vh;
-  background: url("https://github.com/infancias/educacion/blob/main/assets/img/portada.jpg?raw=true") top center;
+  background: url("https://github.com/infancias/educacion/blob/main/assets/img/portada.jpg") top center;
   background-size: cover;
   position: relative;
 }
